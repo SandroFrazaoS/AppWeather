@@ -5,7 +5,7 @@
 </h1>
 
 <h4 align="center">
-   Aplicativo de consulta de clima por geolocalização,pesquisa por cidade e consumo de API -  HG-brasil
+   App de consulta de clima utilizando geolocalização e consumo de API.
 </h4>
 
 <h6 align="center">
@@ -33,11 +33,11 @@
 # Primeiro clone o repositorio do Git para seu computador. Execute o comando; 
 git clone https://github.com/SandroFrazaoS/AppWeather.git
 
-# Acesse a pasta criado atraves do comando; 
+# Acesse a pasta criado com o comando; 
 cd AppWeather
 
-# Instale todas as dependencias do projeto, acesse a pasta AppWeather e execute o comando;
-yarn
+# Apos acessar a pasta execute o comando yarn para instalar as dependencias do projeto.  exemplo;
+c:\AppWeather\yarn
 
 # Para start do App execute dentro da pasta AppWeather o comando;
 expo start
@@ -49,12 +49,12 @@ Ao abrir o aplicativo o sistema identifica por geolocalização a localização 
 
 ![1][tela1]
 
-Na tela é apresentado, nome da cidade, tipo de clima (nublado, chovendo, insolarado), se é dia ou noite, graus celsius, velocida do vento, humidade, hora Sunraise, Hora Sunset. Abaixo das informações do clima atual é apresentado uma lista de clima dos proximos 7 dias.
+Na tela é apresentado, nome da cidade, tipo de clima (nublado, chovendo, insolarado), se é dia ou noite, graus celsius, velocida do vento, humidade, hora Sunraise, Hora Sunset. Abaixo das informações do clima é apresentado uma lista do clima nos proximos 7 dias.
 
 ![2][tela2]
 ![3][tela3]
 
-No menu pricipal, guia procurar, é possivel pesquisar o clima pelo nome cidade e estado.
+No menu pricipal, guia procurar, é possivel pesquisar o clima pelo nome da cidade e estado.
 
 ![4][tela4]
 
