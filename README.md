@@ -51,17 +51,16 @@ Ao abrir o aplicativo o sistema identifica por geolocalização a localização 
 
 Na tela é apresentado, nome da cidade, tipo de clima (nublado, chovendo, insolarado), se é dia ou noite, graus celsius, velocida do vento, humidade, hora Sunraise, Hora Sunset. Abaixo das informações do clima é apresentado uma lista do clima nos proximos 7 dias.
 
-![2][tela2]
 ![3][tela3]
 
 No menu pricipal, guia procurar, é possivel pesquisar o clima pelo nome da cidade e estado.
 
-![4][tela4]
+![2][tela2]  .... ![4][tela4]
 
 
 
 
-[tela1]: T1.png
-[tela2]: T2.png
-[tela3]: T3.png
-[tela4]: T4.png
+[tela1]: T1.PNG
+[tela2]: T2.PNG
+[tela3]: T3.PNG
+[tela4]: T4.PNG
